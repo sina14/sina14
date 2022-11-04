@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sina14 or Sina with shirt no.14 ;)
+- 👀 I’m interested in development, sys-admin or whatever about computer science!
+- 🌱 I’m currently learning #DevOps concepts
+- 💞️ I’m looking to collaborate on cloud technologies such.
+- 📫 How to reach me just send an email on sina14@gmail.com .
