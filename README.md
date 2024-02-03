@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning #DevOps concepts.
 - 💞️ I’m looking to collaborate on cloud technologies.
 - 📫 How to reach me just send an email on sina14@gmail.com .
-- I also look for forecasting events in monitoring tools or develop some tools to get the goal!
+- I also look for forecasting events in monitoring tools or develop some tools to follow the goal!
