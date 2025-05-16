@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @sina14 or Sina with shirt no.14 ;)
-- 👀 I’m interested in development, sys-admin or whatever about computer science!
-- 🌱 I’m currently learning #DevOps concepts.
-- 🤝 I’m looking to collaborate on cloud technologies
-- 🤞🏻 I'm enthusiasm about AIOps, MLOps, DataOps and friends.
-- 📫 How to reach me just send an email on sina14@gmail.com .
-- I also look for forecasting events in monitoring tools or develop some tools to follow the goal!
+---
+- 👋 Hey there! I’m Sina (@sina14), also known as the player with shirt no. 14 😄
+- 💻 Passionate about all things development, sysadmin, and the wild world of computer science!
+- ☁️ Diving deep into DevOps, Cloud, and automation—always learning something new!
+- 🚀 Currently exploring Kubernetes, MLOps, and the magic of AIOps & DataOps.
+- 🛠️ Love building cool tools, automating workflows, and making monitoring smarter (event forecasting is my jam).
+- 🤝 Open to collaborating on cloud projects, GitHub Actions, and anything techy.
+- ✍️ Check out my weekly Tech Insights articles and hands-on project repos!
+- 📫 Reach out: sina14@gmail.com 
+
+---
